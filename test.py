@@ -15,6 +15,9 @@ print('x沿着维度0复制2倍', np.tile(x, 2))
 print('x沿着维度0、维度1，分别复制2倍、2倍', np.tile(x, (2, 2)))
 print('x沿着维度0、维度1、维度2，分别复制2倍、2倍、2倍', np.tile(x, (2, 2, 2)))
 
+print('second version')
+
+
 
 
 
